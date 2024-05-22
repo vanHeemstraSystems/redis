@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+redis
+# Redis
 
-Based on "ABC" at https://www.abc.com/
+Based on "Complete tutorial on security in Redis" at https://www.geeksforgeeks.org/complete-tutorial-on-security-in-redis/
 
 ## 100 - Introduction
 
